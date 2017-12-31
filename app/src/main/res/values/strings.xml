@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SushiGoal</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_player_selection">PlayerSelection</string>
+    <string name="exist_player">La joueur existe déjà</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
